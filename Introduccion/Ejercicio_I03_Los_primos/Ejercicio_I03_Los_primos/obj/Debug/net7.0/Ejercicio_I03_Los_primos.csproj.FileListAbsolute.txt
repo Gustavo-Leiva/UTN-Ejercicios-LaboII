@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\bin\Debug\net7.0\Ejercicio_I03_Los_primos.exe
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\bin\Debug\net7.0\Ejercicio_I03_Los_primos.deps.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\bin\Debug\net7.0\Ejercicio_I03_Los_primos.runtimeconfig.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\bin\Debug\net7.0\Ejercicio_I03_Los_primos.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\bin\Debug\net7.0\Ejercicio_I03_Los_primos.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.AssemblyInfo.cs
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\refint\Ejercicio_I03_Los_primos.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\Ejercicio_I03_Los_primos.genruntimeconfig.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicio_I03_Los_primos\Ejercicio_I03_Los_primos\obj\Debug\net7.0\ref\Ejercicio_I03_Los_primos.dll

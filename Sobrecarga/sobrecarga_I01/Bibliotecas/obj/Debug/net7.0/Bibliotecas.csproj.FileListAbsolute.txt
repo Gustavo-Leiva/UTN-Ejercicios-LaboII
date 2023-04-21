@@ -1,0 +1,12 @@
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\bin\Debug\net7.0\Bibliotecas.deps.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\bin\Debug\net7.0\Bibliotecas.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\bin\Debug\net7.0\Bibliotecas.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.AssemblyInfo.cs
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\refint\Bibliotecas.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\Bibliotecas.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Sobrecarga\sobrecarga_I01\Bibliotecas\obj\Debug\net7.0\ref\Bibliotecas.dll

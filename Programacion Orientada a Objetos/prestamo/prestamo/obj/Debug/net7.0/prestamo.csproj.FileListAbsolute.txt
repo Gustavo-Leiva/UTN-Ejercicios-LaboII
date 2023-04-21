@@ -1,0 +1,36 @@
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\prestamo.exe
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\prestamo.deps.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\prestamo.runtimeconfig.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\prestamo.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.AssemblyInfo.cs
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.csproj.CopyComplete
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\refint\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\prestamo.genruntimeconfig.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\prestamo\prestamo\obj\Debug\net7.0\ref\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\prestamo.exe
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\prestamo.deps.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\prestamo.runtimeconfig.json
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\prestamo.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.AssemblyInfo.cs
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.csproj.CopyComplete
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\refint\prestamo.dll
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.pdb
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\prestamo.genruntimeconfig.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Programacion Orientada a Objetos\prestamo\prestamo\obj\Debug\net7.0\ref\prestamo.dll

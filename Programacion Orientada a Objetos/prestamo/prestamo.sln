@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prestamo", "prestamo\prestamo.csproj", "{9A3FF487-0AD1-41D9-B89D-1D153EEDD864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{38C9CC81-332F-4661-999D-7CE38EB2C314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3FF487-0AD1-41D9-B89D-1D153EEDD864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3FF487-0AD1-41D9-B89D-1D153EEDD864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3FF487-0AD1-41D9-B89D-1D153EEDD864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3FF487-0AD1-41D9-B89D-1D153EEDD864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C9CC81-332F-4661-999D-7CE38EB2C314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C9CC81-332F-4661-999D-7CE38EB2C314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C9CC81-332F-4661-999D-7CE38EB2C314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C9CC81-332F-4661-999D-7CE38EB2C314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C7AE81E-89E9-4790-BAF1-569963BC6A35}
+	EndGlobalSection
+EndGlobal
